@@ -3,7 +3,7 @@
 Insulation · Seal · Material · Price. Prelaunch portrait talking-head demo. Feedback welcome.
 
 Template & full download: https://motiongit.com/@adunext/industry-shopping-four-tests
-Version: 1.0.1
+Version: 1.0.2
 Demo available. Check the official page for current download availability.
 
 ## Technical reference
